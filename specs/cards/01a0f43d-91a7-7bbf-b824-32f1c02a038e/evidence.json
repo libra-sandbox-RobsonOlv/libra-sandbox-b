@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "card_id": "01a0f43d-91a7-7bbf-b824-32f1c02a038e",
+  "revision": 1,
+  "files": [
+    {
+      "path": "SPEC.md",
+      "sha256": "03217cfa9410ec693deda024b91be55442731480bc222140bae8324deec1ee54"
+    },
+    {
+      "path": "decision.json",
+      "sha256": "fb6b40454f45c9edfacfc905621451aa2e958e88c7560dac7447ce627ff1f03b"
+    },
+    {
+      "path": "findings.json",
+      "sha256": "b0ee4fbd0ab8a7cdad2e919f4b4c1488bce3c3b250a1f123a9d8846d7594094e"
+    },
+    {
+      "path": "plan.json",
+      "sha256": "b049fa5c645a8b4bf50f2c7db962c7dce21c950f9e3df4ee3695ef2ee13493ab"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "findings",
+      "artifact_id": "01a0f43d-f782-71a8-b2b9-02aa9601a5eb",
+      "sha256": "b0ee4fbd0ab8a7cdad2e919f4b4c1488bce3c3b250a1f123a9d8846d7594094e"
+    },
+    {
+      "type": "decision",
+      "artifact_id": "01a0f43e-95b9-79f3-8b17-f30d943852f8",
+      "sha256": "fb6b40454f45c9edfacfc905621451aa2e958e88c7560dac7447ce627ff1f03b"
+    }
+  ]
+}
